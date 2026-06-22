@@ -44,14 +44,14 @@ The goal is a powerful, Linux-capable SDR transceiver with a compact form factor
 
 
 | Rail | IC | Current | 
-|---|---|---|---|
+|---|---|---|
 | 1.0V | TPS62130A | 3A | 
 | 1.8V | TPS62130A | 3A | 
 | 3.3V | TPS62130A | 3A | 
 | 2.5V | TPS62130A | 3A | 
 | 1.2V | TPS62130A | 3A | 
-| 1.3V | ADP1754ACPZ-1.3-R7 |
-| 5V | External connector |
+| 1.3V | ADP1754ACPZ-1.3-R7 | |
+| 5V | External connector |  |
 
 > Sequencing is managed using EN (Enable) and PG (Power Good) pins chained between power ICs.
 
