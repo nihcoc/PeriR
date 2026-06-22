@@ -57,13 +57,13 @@ The goal is a powerful, Linux-capable SDR transceiver with a compact form factor
 
 ### Interfaces
 **CM4 INTERFACES**
-| CM4 Interface | IC / Notes |
-|---|---|
-| **HDMI** | Standard HDMI |
-| **USB** | Standard USB 2.0  |
-| **DSI** | Display connector |
-| **SD Card** | Level-shifted (1.8V MIO → 3.3V SD logic) |
-| **PCIe** | Interface between the CM4 and FPGA |
+| CM4 Interface |
+|---|
+| **HDMI** | 
+| **USB** | 
+| **DSI** | 
+| **SD Card** |  
+| **PCIe 2.0 x1** | 
 
 
 **FPGA INTERFACES**
