@@ -38,7 +38,7 @@ The goal is a powerful, Linux-capable SDR transceiver with a compact form factor
 
 ### Xilinx Artix-7 XC7A50T FPGA
 - **Configuration:** JTAG
-- **PCIe interface:** Signal lines terminated at 40 Ω
+- **SoM interface:** PCIe 2.0 x1 
 
 ### Power Architecture
 
