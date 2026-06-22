@@ -64,6 +64,8 @@ The goal is a powerful, Linux-capable SDR transceiver with a compact form factor
 | **DSI** | Display connector |
 | **SD Card** | Level-shifted (1.8V MIO → 3.3V SD logic) |
 | **PCIe** | Interface between the CM4 and FPGA |
+---
+
 **FPGA INTERFACES**
 | FPGA Interface | IC / Notes |
 |---|---|
