@@ -70,6 +70,7 @@ The goal is a powerful, Linux-capable SDR transceiver with a compact form factor
 | FPGA Interface | IC / Notes |
 |---|---|
 | **USB 2.0** | via the FT2232HL |
+| **PCIe 2.0 x1** | MGT Bank |
 ---
 
 ## Software
