@@ -132,7 +132,7 @@ The goal is a powerful, Linux-capable SDR transceiver with a compact form factor
 
 ﻿# Bill of Materials
 
- Total = ~$290(excl. shipping)
+ Total = ~$425(excl. shipping)
 
 | # | LCSC# | MPN | Manufacturer | Package | Board Ref | Description | Qty | MOQ | Unit Price ($) | Ext. Price ($) | Product Link |
 |---|-------|-----|--------------|---------|-----------|-------------|-----|-----|---------------|----------------|--------------|
