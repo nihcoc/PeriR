@@ -127,10 +127,9 @@ The goal is a powerful, Linux-capable SDR transceiver with a compact form factor
 
 ---
 
-##Bill of Materials
+## Bill of Materials
 
 
-﻿# Bill of Materials
 
  Total = ~$425(excl. shipping)
 
