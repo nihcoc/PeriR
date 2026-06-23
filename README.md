@@ -74,6 +74,9 @@ The goal is a powerful, Linux-capable SDR transceiver with a compact form factor
 ---
 
 ## Software
+CM4 - FPGA - AD9364 interface development is in progress. 
+
+**General Software**
 
 - **OS:** [Kuiper Linux](https://wiki.analog.com/resources/tools-software/linux-software/kuiper-linux) by Analog Devices
 - **SDR Applications:** GNU Radio, SDR++
