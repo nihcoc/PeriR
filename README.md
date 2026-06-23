@@ -128,6 +128,8 @@ The goal is a powerful, Linux-capable SDR transceiver with a compact form factor
 ---
 
 ##Bill of Materials
+
+
 ﻿Index,LCSC#,MPN,Manufacturer,Package,Board Ref,Description,,Quantity,MOQ,Unit Price($),Extended Price($),Product Link
 1,C444946,AD9364BBCZ,ADI,BGA-144,U4,-122dBm 70MHz~6GHz 1.2V~3.3V BGA-144 RF Transceiver ICs RoHS,,1,1,96.5166,96.52,https://www.lcsc.com/product-detail/C444946.html
 2,C5199907,SMA-J-P-H-ST-EM1,Samtec,SMD,"J12,J13,J14",Connector Receptacle SMA 50Ω,,3,1,4.8959,14.69,https://www.lcsc.com/product-detail/C5199907.html
