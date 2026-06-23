@@ -90,12 +90,28 @@ The goal is a powerful, Linux-capable SDR transceiver with a compact form factor
 
 ---
 
-## Fallout Zine:
+## Fallout Zine
 
 <img width="2552" height="3584" alt="periR (5)" src="https://github.com/user-attachments/assets/534bc2fa-ad8b-4074-a004-b8eb9a3dd2fa" />
 
+## Layers
+<img width="1265" height="746" alt="Screenshot 2026-06-23 165112" src="https://github.com/user-attachments/assets/aad8353c-8c38-4183-840e-34fc1ee98b3a" />
+*Layer 1(Top)*
 
+<img width="1282" height="754" alt="Screenshot 2026-06-23 165122" src="https://github.com/user-attachments/assets/37b49cc8-02a7-40ee-b16f-10bcf0cd77f9" />
+*Layer 2(GND)*
 
+<img width="1224" height="741" alt="Screenshot 2026-06-23 165130" src="https://github.com/user-attachments/assets/c8930290-e2dc-429a-96c0-06285f54e87e" />
+*Layer 3*
+
+<img width="1239" height="746" alt="Screenshot 2026-06-23 165138" src="https://github.com/user-attachments/assets/d2326264-1f87-46fa-a07e-38b4f0e9431e" />
+*Layer 4(Power)*
+
+<img width="1235" height="735" alt="Screenshot 2026-06-23 165144" src="https://github.com/user-attachments/assets/e22e49de-feb1-4562-902b-2cdda438d79c" />
+*Layer 5(GND)*
+
+<img width="1239" height="733" alt="Screenshot 2026-06-23 165157" src="https://github.com/user-attachments/assets/bc858611-1d68-4fb7-9bfa-da9189a2653b" />
+*Layer 6(Bottom)*
 
 *Special Thanks to Hack Club and the fabulous people at Fallout 2026!*
 
