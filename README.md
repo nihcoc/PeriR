@@ -74,7 +74,7 @@ The goal is a powerful, Linux-capable SDR transceiver with a compact form factor
 ---
 
 ## Software
-CM4 - FPGA - AD9364 interface development is in progress. 
+CM4 - FPGA - AD9364 interface is in development.
 
 **General Software**
 
