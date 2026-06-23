@@ -92,7 +92,8 @@ The goal is a powerful, Linux-capable SDR transceiver with a compact form factor
 
 ## Fallout Zine
 
-<img width="2552" height="3584" alt="periR (6)" src="https://github.com/user-attachments/assets/02370bb0-3d5a-4adb-98f5-ecb308c7c9a8" />
+<img width="2552" height="3584" alt="periR (7)" src="https://github.com/user-attachments/assets/a3692e8a-0c40-4a74-8f8e-e91de8aa9a11" />
+
 
 
 ## Layers
