@@ -95,7 +95,7 @@ CM4 - FPGA - AD9364 interface is in development.
 
 ## Fallout Zine
 
-<img width="2552" height="3584" alt="periR (7)" src="https://github.com/user-attachments/assets/a3692e8a-0c40-4a74-8f8e-e91de8aa9a11" />
+<img width="2552" height="3584" alt="Fallout Zine" src="https://github.com/user-attachments/assets/a3692e8a-0c40-4a74-8f8e-e91de8aa9a11" />
 
 
 
