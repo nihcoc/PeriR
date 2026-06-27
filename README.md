@@ -13,6 +13,15 @@ The goal is a powerful, Linux-capable SDR transceiver with a compact form factor
 
 ---
 
+---
+
+## Why this project?
+
+ThI've always wanted an SDR. It feels like your a real hacker when you use an SDR to get those images from weather satellites, using ADS-B to find planes in your vicinity or listen to different transmissions at different frequencies. 
+What I also like is challenging myself. So, I've decided to torture myself for the next few months by making my very own SDR that is more powerful than a HackRF Portapack.Based on the AD9364, Artix -7 50T and a CM4. Wish me Luck 🙏.
+
+---
+
 ## Key Specifications
 
 | Feature | Detail |
