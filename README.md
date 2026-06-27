@@ -39,9 +39,8 @@ What I also like is challenging myself. So, I've decided to torture myself for t
 ## Hardware Design
 
 ### RF Transceiver — AD9364
-- **Signalling standard:** LVDS (chosen over CMOS for lower EMI and higher throughput)
-- **Balun:** TCM1-63AX+ wideband RF transformer (≤1.8 dB insertion loss @ 6 GHz)
-- **Clock:** 40 MHz, 10 pF load capacitance (tested reference from AD)
+- **Balun:** TCM1-63AX+ wideband RF transformer 
+- **Clock:** 40 MHz
 - **Power rail:** 1.3V via ADP1754ACPZ-1.3-R7 (AD-recommended for stability)
 - **TX Power Amp:** PGA-102 (dedicated clean 3.3V supply)
 
@@ -62,7 +61,7 @@ What I also like is challenging myself. So, I've decided to torture myself for t
 | 1.3V | ADP1754ACPZ-1.3-R7 | 3A |
 | 5V | External connector | ~ 8A  |
 
-> Sequencing is managed using EN (Enable) and PG (Power Good) pins chained between power ICs.
+> Sequencing is managed using EN (Enable) and PG (Power Good) pins chained between power ICs. See Pg8 on ([DS181](https://docs.amd.com/v/u/en-US/ds181_Artix_7_Data_Sheet))
 
 ### Interfaces
 **CM4 INTERFACES**
@@ -88,9 +87,7 @@ CM4 - FPGA - AD9364 interface is in development.
 **General Software**
 
 - **OS:** [Kuiper Linux](https://wiki.analog.com/resources/tools-software/linux-software/kuiper-linux) by Analog Devices
-- **SDR Applications:** GNU Radio, SDR++
-- **FPGA toolchain:** Xilinx Vivado + Analog Devices HDL reference designs
-- **Reference HDL:** [Analog Devices HDL](https://github.com/analogdevicesinc/hdl) (FMCOMMS4 / ADRV9364 compatible)
+- **Reference HDL:** ([https://github.com/analogdevicesinc/hdl/blob/main/library/axi_ad9361/axi_ad9361.v](https://github.com/analogdevicesinc/hdl/blob/main/library/axi_ad9361/axi_ad9361.v))
 
 ---
 
