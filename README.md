@@ -141,7 +141,7 @@ CM4 - FPGA - AD9364 interface is in development.
 
 
 
- Total = ~$425(excl. shipping)
+ Total = ~$485(excl. shipping)
 
 | # | LCSC# | MPN | Manufacturer | Package | Board Ref | Description | Qty | MOQ | Unit Price ($) | Ext. Price ($) | Product Link |
 |---|-------|-----|--------------|---------|-----------|-------------|-----|-----|---------------|----------------|--------------|
@@ -211,7 +211,7 @@ CM4 - FPGA - AD9364 interface is in development.
 | 64 | C5410688 | 69145-210LF | Amphenol | — | J1 | Open-Top 2.54mm Shunts, Jumpers RoHS | 1 | 1 | 1.0308 | 1.03 | [Link](https://www.lcsc.com/product-detail/C5410688.html) |
 | 65 | C3168185 | FH19SC-22S-0.5SH(09) | HRS | SMD, P=0.5mm | J6 | FFC/FPC Connector 22 Position 0.5mm Pitch Bottom Contact Surface Mount, Right Angle | 1 | 1 | 1.7125 | 1.71 | [Link](https://www.lcsc.com/product-detail/C3168185.html) |
 | 66 | --- | Compute Module 4 CM4101000 WIFI Lite | RPi | --- | --- | --- | 1 | 1 | 95 | 95 | [Link](https://ar.aliexpress.com/item/1005008557413104.html?spm=a2g0o.productlist.main.2.4574vHeWvHeWo5&algo_pvid=dbca0ea5-76ce-4cef-a374-f51fa96f5d17&algo_exp_id=dbca0ea5-76ce-4cef-a374-f51fa96f5d17-1&pdp_ext_f=%7B%22order%22%3A%2256%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21AED%21291.96%21291.96%21%21%21522.94%21522.94%21%40214100f417822410718697426e529a%2112000045700124987%21sea%21AE%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ae64a854d%3Bm03_new_user%3A-29895&curPageLogUid=OTnqg2gbWbCW&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008557413104%7C_p_origin_prod%3A) |
-| 67 | --- | PCB | JLCPCB | --- | --- | 6 - Layer | 1 | 1 | 40 | 40 | --- |
+| 67 | --- | PCBA | JLCPCB | --- | --- | 6 - Layer | 1 | 1 | 100 | 100 | --- |
 
 
 ---
