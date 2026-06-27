@@ -31,25 +31,20 @@ What I also like is challenging myself. So, I've decided to torture myself for t
 | **RF Transceiver** | Analog Devices AD9364 |
 | **Frequency Range** | 70 MHz – 6.0 GHz |
 | **Bandwidth** | 200 kHz – 56 MHz |
-| **OS** | Kuiper Linux (Analog Devices / Raspberry Pi OS based) |
+| **OS** | Kuiper Linux |
 | **Primary Storage** | MicroSD card |
 
 ---
 
 ## Hardware Design
 
-### RF Transceiver — AD9364
+### RF
 - **Balun:** TCM1-63AX+ wideband RF transformer 
 - **Clock:** 40 MHz
-- **Power rail:** 1.3V via ADP1754ACPZ-1.3-R7 (AD-recommended for stability)
+- **Power:** ADP1754ACPZ-1.3-R7 (Recommended by AD)
 - **TX Power Amp:** PGA-102 (dedicated clean 3.3V supply)
 
-### Xilinx Artix-7 XC7A50T FPGA
-- **Configuration:** JTAG
-- **SoM interface:** PCIe 2.0 x1 
-
 ### Power Architecture
-
 
 | Rail | IC | Current | 
 |---|---|---|
@@ -79,9 +74,19 @@ What I also like is challenging myself. So, I've decided to torture myself for t
 |---|---|
 | **USB 2.0** | via the FT2232HL |
 | **PCIe 2.0 x1** | MGT Bank |
+| **JTAG** | MGT Bank |
+---
+
+###  Hardware Design References
+
+- ([FreeSRP](http://electronics.kitchen/misc/freesrp/))
+- Analog Devices FMCOMMS4
+- **Key Datasheets:** ARTIX-7 DATASHEETS, AD9364 Reference Manual, CM4 DATASHEETS
+
 ---
 
 ## Software
+
 CM4 - FPGA - AD9364 interface is in development.
 
 **General Software**
@@ -91,13 +96,6 @@ CM4 - FPGA - AD9364 interface is in development.
 
 ---
 
-## Design References
-
-- [FreeSRP](http://electronics.kitchen/misc/freesrp/) — Lukas Lao Beyer
-- Analog Devices FMCOMMS4
-- **Key Datasheets:** ARTIX-7 DATASHEETS, AD9364 Reference Manual, CM4 DATASHEETS
-
----
 
 ## Fallout Zine
 
