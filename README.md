@@ -104,32 +104,38 @@ CM4 - FPGA - AD9364 interface is in development.
 
 
 ## Layers
-<img width="1265" height="746" alt="Screenshot 2026-06-23 165112" src="https://github.com/user-attachments/assets/aad8353c-8c38-4183-840e-34fc1ee98b3a" />
+<img width="933" height="545" alt="image" src="https://github.com/user-attachments/assets/dc11b6d5-1089-4dcd-b5d7-49323794e72e" />
+
 
 *Layer 1(Top)*
 
 
-<img width="1282" height="754" alt="Screenshot 2026-06-23 165122" src="https://github.com/user-attachments/assets/37b49cc8-02a7-40ee-b16f-10bcf0cd77f9" />
+<img width="920" height="542" alt="image" src="https://github.com/user-attachments/assets/abf165a0-b21d-480e-9d46-54684493088a" />
+
 
 *Layer 2(GND)*
 
 
-<img width="1224" height="741" alt="Screenshot 2026-06-23 165130" src="https://github.com/user-attachments/assets/c8930290-e2dc-429a-96c0-06285f54e87e" />
+<img width="911" height="543" alt="image" src="https://github.com/user-attachments/assets/440125b5-0329-4dd7-b845-ea201c29fc69" />
+
 
 *Layer 3*
 
 
-<img width="1239" height="746" alt="Screenshot 2026-06-23 165138" src="https://github.com/user-attachments/assets/d2326264-1f87-46fa-a07e-38b4f0e9431e" />
+<img width="917" height="545" alt="image" src="https://github.com/user-attachments/assets/939afa5b-3639-48f3-9098-ec397dbf7b73" />
+
 
 *Layer 4(Power)*
 
 
-<img width="1235" height="735" alt="Screenshot 2026-06-23 165144" src="https://github.com/user-attachments/assets/e22e49de-feb1-4562-902b-2cdda438d79c" />
-
-*Layer 5(GND)*
+<img width="922" height="542" alt="image" src="https://github.com/user-attachments/assets/78294f2e-e092-44c3-a691-f323944d17b0" />
 
 
-<img width="1239" height="733" alt="Screenshot 2026-06-23 165157" src="https://github.com/user-attachments/assets/bc858611-1d68-4fb7-9bfa-da9189a2653b" />
+*Layer 5(GND/LOW Speed Signals)*
+
+
+<img width="912" height="547" alt="image" src="https://github.com/user-attachments/assets/3292eb09-f33c-47b0-8745-c3746ecf7de7" />
+
 
 *Layer 6(Bottom)*
 
