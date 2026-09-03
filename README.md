@@ -1,5 +1,5 @@
 # PeriR
-<img width="2048" height="1152" alt="Adobe Express - file" src="https://github.com/user-attachments/assets/585b32f5-28f4-4f51-b9d1-292b330a54c2" />
+
 
 A custom Software Defined Radio (SDR) HAT built around the **Xilinx Artix-7 XC7A50T FPGA** and **Analog Devices AD9364** RF transceiver. The board is designed to run **Kuiper Linux** (Analog Devices' Raspberry Pi OS-based distro).
 
