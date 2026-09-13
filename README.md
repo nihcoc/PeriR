@@ -30,6 +30,7 @@ Read my <a href="https://github.com/nihcoc/PeriR/blob/main/perir-journal.md">Har
 - **Clock:** 40 MHz
 - **Power:** ADP1754ACPZ-1.3-R7 (Recommended by AD)
 - **TX Power Amp:** PGA-102 (dedicated clean 3.3V supply)
+- **Trace** 50Ω controlled for the JLC06161H-3313A stack-up, Co-planar 
 
 ### Power Architecture
 
@@ -54,6 +55,8 @@ Read my <a href="https://github.com/nihcoc/PeriR/blob/main/perir-journal.md">Har
 | **DSI** | Length matched, 50Ω |
 | **SD Card** |  Length matched, 50Ω |
 | **PCIe 2.0 x1** | ±1ps Length matched , 90Ω Differential (See ([Pg7 2.3](https://pip-assets.raspberrypi.com/categories/634-raspberry-pi-compute-module-4/documents/RP-008168-DS-4-cm4-datasheet.pdf)) ) |
+
+> Impedance controlled according to the JLC06161H-3313A stack-up using the [JLCPCB impedence calculator](https://jlcpcb.com/pcb-impedance-calculator)
 
 
 **FPGA INTERFACES**
