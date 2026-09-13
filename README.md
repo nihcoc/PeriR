@@ -1,13 +1,9 @@
 # PeriR
 
+## Abstract
 
-A custom Software Defined Radio (SDR) HAT built around the **Xilinx Artix-7 XC7A50T FPGA** and **Analog Devices AD9364** RF transceiver. The board is designed to run **Kuiper Linux** (Analog Devices' Raspberry Pi OS-based distro).
-
----
-
-## Overview
-
-This project is inspired by the [FreeSRP](http://electronics.kitchen/misc/freesrp/) open-source SDR by Lukas Lao Beyer and design references from the **FMCOMMS4**.
+A custom Software Defined Radio (SDR) HAT built around the Xilinx Artix-7 XC7A50T FPGA and Analog Devices AD9364 RF transceiver.
+This project is inspired by the [FreeSRP](http://electronics.kitchen/misc/freesrp/) open-source SDR by Lukas Lao Beyer and design references from the  <a href="https://wiki.analog.com/resources/eval/user-guides/ad-fmcomms4-ebz">FMCOMMS4</a>.
 
 The goal is a powerful, Linux-capable SDR transceiver with a compact form factor and eventually, a handheld device like the HackRF Portapack.
 
