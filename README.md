@@ -68,7 +68,7 @@ Read my <a href="https://github.com/nihcoc/PeriR/blob/main/perir-journal.md">Har
 | **Transceiver Digital Interface** | DUAL PORT FULL DUPLEX MODE (LVDS) on Bank 34 @ 2.5V|
 ---
 
-> LVDS is supported on the XC7A50T-CSG325 but only when VCCO_x is supplied with 2.5V
+> LVDS mode is supported on the XC7A50T-CSG325 but only when VCCO_x is supplied with 2.5V
 
 ###  Key Datasheets
 
