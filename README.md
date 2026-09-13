@@ -47,13 +47,13 @@ Read my <a href="https://github.com/nihcoc/PeriR/blob/main/perir-journal.md">Har
 
 ### Interfaces
 **CM4 INTERFACES**
-| CM4 Interface |
-|---|
-| **HDMI** | 
-| **USB** | 
-| **DSI** | 
-| **SD Card** |  
-| **PCIe 2.0 x1** | 
+| CM4 Interface | Notes |
+|---|---|
+| **HDMI** | Length matched, 100Ω  Differential|
+| **USB** | Length matched, 100Ω  Differential|
+| **DSI** | Length matched, 50Ω |
+| **SD Card** |  Length matched, 50Ω |
+| **PCIe 2.0 x1** | Length matched, 90Ω Differential (See ([Pg7 2.3](https://pip-assets.raspberrypi.com/categories/634-raspberry-pi-compute-module-4/documents/RP-008168-DS-4-cm4-datasheet.pdf)) ) |
 
 
 **FPGA INTERFACES**
