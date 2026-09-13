@@ -30,7 +30,7 @@ Read my <a href="https://github.com/nihcoc/PeriR/blob/main/perir-journal.md">Har
 - **Clock:** 40 MHz
 - **Power:** ADP1754ACPZ-1.3-R7 (Recommended by AD)
 - **TX Power Amp:** PGA-102 (dedicated clean 3.3V supply)
-- **Trace** 50Ω controlled for the JLC06161H-3313A stack-up, Co-planar 
+- **Trace:** 50Ω controlled for the JLC06161H-3313A stack-up, Co-planar 
 
 ### Power Architecture
 
