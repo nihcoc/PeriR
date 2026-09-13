@@ -23,7 +23,7 @@ The goal is a powerful, Linux-capable SDR transceiver with a compact form factor
 
 ## Hardware Design
 
-Read my <a href="https://github.com/nihcoc/PeriR/blob/main/perir-journal.md">Hardware Journal and 120 Hours of footage of my entire design process</a> here!
+Read my <a href="https://github.com/nihcoc/PeriR/blob/main/perir-journal.md">Hardware Journal and 120 Hours of footage of my entire design process</a> here!(Images wont work mb)
 
 ### RF
 - **Balun:** TCM1-63AX+ wideband RF transformer (10MHz to 6GHz)
