@@ -27,7 +27,7 @@ Read my <a href="https://github.com/nihcoc/PeriR/blob/main/perir-journal.md">Har
 
 ### RF
 - **Balun:** TCM1-63AX+ wideband RF transformer (10MHz to 6GHz)
-- **Clock:** 40 MHz
+- **Clock:** 40 MHz TCXO
 - **Power:** ADP1754ACPZ-1.3-R7 (Recommended by AD)
 - **TX Power Amp:** PGA-102 (dedicated clean 3.3V supply)
 - **Trace:** 50Ω controlled for the JLC06161H-3313A stack-up, Co-planar 
