@@ -77,7 +77,7 @@ Read my <a href="https://github.com/nihcoc/PeriR/blob/main/perir-journal.md">Har
 
 ## Software
 
-CM4 - FPGA - AD9364 interface is in development.
+CM4 - FPGA - AD9364 software/digital design interface is in development.
 
 **General Software**
 
