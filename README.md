@@ -209,7 +209,5 @@ CM4 - FPGA - AD9364 interface is in development.
 
 
 ---
-See my journal [here](https://fallout.hackclub.com/projects/317)
----
 *Special Thanks to Hack Club and the fabulous people at Fallout 2026!*
 
