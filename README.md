@@ -9,26 +9,24 @@ The goal is a powerful, Linux-capable SDR transceiver with a compact form factor
 
 ---
 
----
-
 ## Key Specifications
 
 | Feature | Detail |
 |---|---|
-| **SoM** |Compute Module 4 |
-| **FPGA** | Xilinx Artix-7 XC7A50T FPGA (~50K LUTs) |
+| **SoM** | Compute Module 4 |
+| **FPGA** | Xilinx Artix-7 XC7A50T FPGA |
 | **RF Transceiver** | Analog Devices AD9364 |
 | **Frequency Range** | 70 MHz – 6.0 GHz |
 | **Bandwidth** | 200 kHz – 56 MHz |
-| **OS** | Kuiper Linux |
-| **Primary Storage** | MicroSD card |
-
+| **Interfaces** | PCIe 2.0 x1, USB2.0 |
 ---
 
 ## Hardware Design
 
+Read my <a href="https://github.com/nihcoc/PeriR/blob/main/perir-journal.md">Hardware Journal</a> here!
+
 ### RF
-- **Balun:** TCM1-63AX+ wideband RF transformer 
+- **Balun:** TCM1-63AX+ wideband RF transformer (10MHz to 6GHz)
 - **Clock:** 40 MHz
 - **Power:** ADP1754ACPZ-1.3-R7 (Recommended by AD)
 - **TX Power Amp:** PGA-102 (dedicated clean 3.3V supply)
