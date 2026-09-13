@@ -64,11 +64,8 @@ Read my <a href="https://github.com/nihcoc/PeriR/blob/main/perir-journal.md">Har
 | **JTAG** | MGT Bank |
 ---
 
-###  Hardware Design References
+###  Key Datasheets
 
-- ([FreeSRP](http://electronics.kitchen/misc/freesrp/))
-- Analog Devices FMCOMMS4
-- **Key Datasheets:** ARTIX-7 DATASHEETS, AD9364 Reference Manual, CM4 DATASHEETS
 
 ---
 
