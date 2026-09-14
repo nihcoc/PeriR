@@ -66,12 +66,12 @@ Read my <a href="https://github.com/nihcoc/PeriR/blob/main/perir-journal.md">Har
 **FPGA INTERFACES**
 | FPGA Interface | IC / Notes |
 |---|---|
-| **USB 2.0** | via the FT2232HL |
-| **PCIe 2.0 x1** | MGT Bank |
+| **USB 2.0** | Routed for the asynchronous 245 FIFO mode on FT2232HL |
+| **PCIe 2.0 x1** | GTP transceivers are only supported on a few Artix-7 chips such as the CSG-325 |
 | **JTAG** | Bank_0 |
-| **Transceiver Digital Interface** | DUAL PORT FULL DUPLEX MODE (LVDS) on Bank 34 @ 2.5V|
+| **Transceiver Digital Interface** |I have the routing configured for the DUAL PORT FULL DUPLEX MODE using the LVDS signaling standard. LVDS mode is supported on the XC7A50T-CSG325 but only when VCCO_x is supplied with 2.5V|
+| **DEBUG LEDS** | Blue leds for debug/status |
 
-> LVDS mode is supported on the XC7A50T-CSG325 but only when VCCO_x is supplied with 2.5V
 ---
 
 ###  Key Datasheets
