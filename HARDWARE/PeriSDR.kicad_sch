@@ -1,0 +1,237 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "a011d923-be6e-464f-9201-ae2ca6467e55")
+	(paper "A4")
+	(lib_symbols)
+	(rectangle
+		(start 105.41 35.56)
+		(end 165.1 54.61)
+		(stroke
+			(width 0.254)
+			(type solid)
+			(color 255 15 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "54ef6a8f-cfe3-4d05-a365-a3558f6669d4")
+	)
+	(text "verify RX-TX SWITCHING"
+		(exclude_from_sim no)
+		(at 135.128 41.402 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+				(color 255 0 4 1)
+			)
+		)
+		(uuid "72602e10-71d2-4680-be12-26e68fbb6531")
+	)
+	(text "verify POWER LABELING\n"
+		(exclude_from_sim no)
+		(at 136.398 50.038 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+				(color 255 0 4 1)
+			)
+		)
+		(uuid "e90b5e83-13e9-4d66-b25a-2ee029b80811")
+	)
+	(sheet
+		(at 167.64 68.58)
+		(size 12.7 27.94)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "2a755b34-5e1f-4373-803b-67fa549b97ff")
+		(property "Sheetname" "Transceiver"
+			(at 167.64 67.8684 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Transceiver.kicad_sch"
+			(at 167.64 97.1046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PeriSDR"
+				(path "/a011d923-be6e-464f-9201-ae2ca6467e55"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 125.73 104.14)
+		(size 36.83 26.67)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "5b5cccc9-ea6a-4905-8fbc-69c17a7432c1")
+		(property "Sheetname" "Power"
+			(at 125.73 103.4284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 125.73 131.3946 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PeriSDR"
+				(path "/a011d923-be6e-464f-9201-ae2ca6467e55"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 127 71.12)
+		(size 33.02 24.13)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "6861d244-e22b-4a70-8f62-0856dc5490a2")
+		(property "Sheetname" "FPGA"
+			(at 127 70.4084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "FPGA.kicad_sch"
+			(at 127 95.8346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PeriSDR"
+				(path "/a011d923-be6e-464f-9201-ae2ca6467e55"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 101.6 78.74)
+		(size 13.97 41.91)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "7d2c830b-0faf-4366-b2a5-2ee2059f7b3c")
+		(property "Sheetname" "Interfaces"
+			(at 101.6 78.0284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Interfaces.kicad_sch"
+			(at 101.6 121.2346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PeriSDR"
+				(path "/a011d923-be6e-464f-9201-ae2ca6467e55"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
