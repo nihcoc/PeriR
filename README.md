@@ -1,5 +1,8 @@
 # PeriR
 
+<img width="2552" height="3584" alt="Fallout Zine" src="https://github.com/user-attachments/assets/a3692e8a-0c40-4a74-8f8e-e91de8aa9a11" />
+
+
 ## Abstract
 
 A custom Software Defined Radio (SDR) HAT built around the Xilinx Artix-7 XC7A50T FPGA and Analog Devices AD9364 RF transceiver.
@@ -109,13 +112,6 @@ CM4 - FPGA - AD9364 software/digital design interface is in development.
 - **Reference HDL:** ([https://github.com/analogdevicesinc/hdl/blob/main/library/axi_ad9361/axi_ad9361.v](https://github.com/analogdevicesinc/hdl/blob/main/library/axi_ad9361/axi_ad9361.v))
 
 ---
-
-
-## Fallout Zine
-
-<img width="2552" height="3584" alt="Fallout Zine" src="https://github.com/user-attachments/assets/a3692e8a-0c40-4a74-8f8e-e91de8aa9a11" />
-
-
 
 ## Layers
 <img width="1382" height="825" alt="image" src="https://github.com/user-attachments/assets/aa7e5930-5298-4840-9cd9-59ee4fa8bc76" />
