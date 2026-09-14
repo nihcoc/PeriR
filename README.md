@@ -58,13 +58,14 @@ Read my <a href="https://github.com/nihcoc/PeriR/blob/main/perir-journal.md">Har
 | **DSI** | Length matched, 100Ω  Differential |
 | **SD Card** |  Length matched, 50Ω |
 | **PCIe 2.0 x1** | ±1ps Length matched , 90Ω Differential (See ([Pg7 2.3](https://pip-assets.raspberrypi.com/categories/634-raspberry-pi-compute-module-4/documents/RP-008168-DS-4-cm4-datasheet.pdf)) ) |
+| **DEBUG LEDS** | Blue leds for debug/status |
 
 > Impedance controlled according to the JLC06161H-3313A stack-up using the [JLCPCB impedence calculator](https://jlcpcb.com/pcb-impedance-calculator)
 
 > Impedance for layer 3 LVDS signals (100Ω is actually wrong as I by mistakenly chose the JLC06161H-3313E stackup for calculating. Its not ideal but its not that critical as trace length is short so the signals would actually reach the terminals before any reflections could affect it. Also, I can use diagnostics and tools to correct the mismatch duing digital design. I'd also work with a lower speed and fix this impedance mismatch for V2.
 
 **FPGA INTERFACES**
-| FPGA Interface | IC / Notes |
+| FPGA Interface | Notes |
 |---|---|
 | **USB 2.0** | Routed for the asynchronous 245 FIFO mode on FT2232HL |
 | **PCIe 2.0 x1** | GTP transceivers are only supported on a few Artix-7 chips such as the CSG-325 |
