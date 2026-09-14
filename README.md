@@ -80,6 +80,7 @@ Read my <a href="https://github.com/nihcoc/PeriR/blob/main/perir-journal.md">Har
 ###  Key Datasheets
 
 | Part | Source |
+|---|---|
 | **XC7A50T** | [UG470 CONFIG/FLASH](https://docs.amd.com/v/u/en-US/ug470_7Series_Config) |
 | **XC7A50T** | [DS181 POWER](https://docs.amd.com/v/u/en-US/ds181_Artix_7_Data_Sheet) |
 | **XC7A50T** | [UG483 LAYOUT/CAPS](https://docs.amd.com/v/u/en-US/ug483_7Series_PCB) |
