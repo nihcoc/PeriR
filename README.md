@@ -80,25 +80,25 @@ Read my <a href="https://github.com/nihcoc/PeriR/blob/main/perir-journal.md">Har
 ###  Key Datasheets
 
 | Part | Source |
-|---|---|
+|FPGA|
 | **XC7A50T** | [UG470 CONFIG/FLASH](https://docs.amd.com/v/u/en-US/ug470_7Series_Config) |
 | **XC7A50T** | [DS181 POWER](https://docs.amd.com/v/u/en-US/ds181_Artix_7_Data_Sheet) |
 | **XC7A50T** | [UG483 LAYOUT/CAPS](https://docs.amd.com/v/u/en-US/ug483_7Series_PCB) |
 | **XC7A50T** | [UG482 GTP(PCIe)](https://docs.amd.com/v/u/en-US/ug482_7Series_GTP_Transceivers) |
 | **XC7A50T** | [UG472 CLOCKING ](https://docs.amd.com/v/u/en-US/ug472_7Series_Clocking) |
-|---|---|
+|TRANSCEIVER|
 | **AD9364** | [UG673 Main Reference](https://www.analog.com/media/en/technical-documentation/data-sheets/AD9364.pdf) |
 | **AD9364** | [Overview](https://www.scribd.com/document/271013063/AD9364-Reference-Manual-UG-673) |
-|---|---|
+|USB2.0|
 | **FT2232H** | [Main Reference](https://ftdichip.com/wp-content/uploads/2024/09/DS_FT2232H.pdf) |
-|---|---|
+|SoM|
 | **Compute Module 4** | [Main Reference](https://pip-assets.raspberrypi.com/categories/634-raspberry-pi-compute-module-4/documents/RP-008168-DS-4-cm4-datasheet.pdf)|
-|---|---|
+|Power|
 | **TPS62130** | [Main Reference](https://www.ti.com/lit/gpn/TPS62130A)|
 | **ADP1754ACPZ-1.3-R7** | [Main Reference](https://www.analog.com/media/en/technical-documentation/data-sheets/ADP1754_1755.pdf)|
 | **NCP700BSN33T1G** | [Main Reference](https://www.onsemi.com/pdf/datasheet/ncp700b-d.pdf)|
 | **ADM7160AUJZ-1.8-R7** | [Main Reference](https://www.analog.com/media/en/technical-documentation/data-sheets/ADM7160.pdf)|
-|---|---|
+| RF |
 | **TCM1-63AX+** | [Main Reference](https://www.minicircuits.com/pdfs/TCM1-63AX+.pdf)|
 | **PGA-102+** | [Main Reference](https://www.minicircuits.com/pdfs/PGA-102+.pdf)|
 
