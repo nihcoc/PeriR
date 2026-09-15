@@ -142,7 +142,7 @@ CM4 - FPGA - AD9364 software/digital design interface is in development.
 
 
 *Layer 4(Power)*
-> IDK how I didn't notice but my power planes look hideous with sharp angles. Gotta fix this in V2
+> IDK how I didn't notice but my power planes look hideous with those sharp edges and uneven clearances. Sorry Guys! Gotta fix this in V2.
 
 
 <img width="1347" height="802" alt="image" src="https://github.com/user-attachments/assets/b45c2fc3-8c04-48cc-a6ab-4848d1afceb3" />
