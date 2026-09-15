@@ -1,0 +1,320 @@
+# PeriR Non-Commercial Hardware License v1.0
+
+**Copyright © 2026 Alfred Jacob Vipin. All rights reserved except as expressly granted below.**
+
+## 1. Purpose
+
+This License governs the use, reproduction, modification, and distribution of the PeriR hardware and associated design materials.
+
+The purpose of this License is to make the PeriR design freely available for personal, educational, research, and other non-commercial purposes while reserving commercial manufacturing, sale, and commercial exploitation rights to the copyright holder.
+
+PeriR is **source-available hardware** under this License and is not represented as Open Source Hardware under the Open Source Hardware Definition.
+
+## 2. Definitions
+
+For purposes of this License:
+
+### 2.1 "Licensor"
+
+"Licensor" means Alfred Jacob Vipin, the copyright holder of the PeriR materials covered by this License.
+
+### 2.2 "PeriR"
+
+"PeriR" means the hardware project identified as "PeriR" by the Licensor, including any specific release, revision, or version identified by the project repository.
+
+### 2.3 "Licensed Materials"
+
+"Licensed Materials" means the original materials made available by the Licensor under this License, including, where applicable:
+
+* PCB schematics
+* PCB layout files
+* PCB design files
+* FPGA HDL and gateware created by the Licensor
+* Hardware source files
+* Bills of materials
+* Mechanical design files
+* CAD files
+* Gerber or manufacturing files
+* Firmware created by the Licensor
+* Configuration files
+* Documentation and technical drawings
+* Other files expressly identified by the Licensor as being covered by this License
+
+Materials belonging to third parties are not included merely because they are distributed alongside PeriR.
+
+### 2.4 "Derivative Design"
+
+A "Derivative Design" means a modification, adaptation, translation, redesign, or other work based substantially on the Licensed Materials.
+
+A Derivative Design includes, without limitation:
+
+* Modified PCB layouts
+* Modified schematics
+* Modified FPGA designs
+* Modified mechanical designs
+* Designs incorporating substantial portions of the Licensed Materials
+* Designs that reproduce substantial functional or expressive portions of the Licensed Materials
+
+A design that merely communicates with, interoperates with, or is independently designed to be compatible with PeriR is not automatically a Derivative Design.
+
+### 2.5 "Personal Use"
+
+"Personal Use" means use by an individual for purposes that are not primarily intended to generate monetary compensation or commercial advantage.
+
+Personal Use includes building, testing, studying, modifying, and operating PeriR for one's own use.
+
+### 2.6 "Educational Use"
+
+"Educational Use" means use for teaching, learning, coursework, school projects, university projects, student competitions, laboratory exercises, demonstrations, or academic research where the use is not primarily intended to generate commercial revenue.
+
+Educational institutions may reproduce reasonable quantities of PeriR hardware for educational activities.
+
+### 2.7 "Research Use"
+
+"Research Use" means use of the Licensed Materials for scientific, engineering, academic, or technical research that is not primarily intended to create a commercial product or generate commercial revenue.
+
+Publication of research results is permitted provided that the attribution requirements of this License are satisfied.
+
+### 2.8 "Non-Commercial Use"
+
+"Non-Commercial Use" means use that is not primarily intended for commercial advantage, monetary compensation, or the production or sale of goods or services for profit.
+
+Non-Commercial Use includes Personal Use, Educational Use, and qualifying Research Use.
+
+### 2.9 "Commercial Use"
+
+"Commercial Use" means any use of the Licensed Materials or a Derivative Design that is primarily intended for commercial advantage or monetary compensation.
+
+Commercial Use includes, without limitation:
+
+1. Manufacturing PeriR hardware for sale.
+2. Manufacturing kits substantially based on PeriR for sale.
+3. Selling PeriR hardware or Derivative Designs.
+4. Offering PeriR hardware as a commercial product.
+5. Incorporating substantial portions of PeriR into a commercial hardware product.
+6. Manufacturing PeriR hardware on behalf of another party for commercial distribution.
+7. Licensing or sublicensing the Licensed Materials for commercial purposes.
+8. Using the Licensed Materials as a substantial part of a commercial service.
+9. Offering a commercial product whose primary value is derived from the Licensed Materials.
+
+Commercial Use does **not** include merely discussing PeriR, reviewing it, publishing research about it, or independently creating a compatible product that does not constitute a Derivative Design.
+
+### 2.10 "Manufacture"
+
+"Manufacture" means producing, assembling, fabricating, or causing a physical product based on the Licensed Materials or a Derivative Design to be produced.
+
+### 2.11 "Distribute"
+
+"Distribute" means making the Licensed Materials or a Derivative Design available to another person or organization by sale, transfer, publication, download, or other means.
+
+### 2.12 "Attribution"
+
+"Attribution" means clearly identifying PeriR and the Licensor as the original source of the Licensed Materials.
+
+The minimum attribution shall state:
+
+> "Based on PeriR by Alfred Jacob Vipin."
+
+Where reasonably practical, the attribution should also include a link to the official PeriR repository.
+
+## 3. Copyright Grant
+
+Subject to the terms of this License, the Licensor grants you a worldwide, non-exclusive, royalty-free license to:
+
+* access the Licensed Materials;
+* study the Licensed Materials;
+* reproduce the Licensed Materials;
+* modify the Licensed Materials;
+* create Derivative Designs;
+* build physical hardware from the Licensed Materials; and
+* use the resulting hardware,
+
+provided that these activities are conducted solely for Non-Commercial Use.
+
+This license does not transfer ownership of the Licensed Materials.
+
+## 4. Educational and Student Rights
+
+Students, teachers, educational institutions, and researchers may use the Licensed Materials without obtaining individual permission from the Licensor for Non-Commercial Use.
+
+Students may:
+
+* build PeriR hardware;
+* modify PeriR hardware;
+* manufacture individual boards for educational projects;
+* use PeriR in school or university projects;
+* use PeriR in non-commercial competitions;
+* publish photographs and demonstrations of their builds;
+* publish technical reports and research involving PeriR; and
+* create and share Non-Commercial Derivative Designs.
+
+Attribution must be retained.
+
+## 5. Non-Commercial Distribution
+
+You may distribute the Licensed Materials and Non-Commercial Derivative Designs provided that:
+
+1. You do not charge a fee primarily for the Licensed Materials themselves.
+2. You retain all applicable copyright and license notices.
+3. You provide attribution to the Licensor.
+4. You clearly identify modifications that you have made.
+5. You do not imply that the Licensor endorses, manufactures, warrants, or supports your modified version.
+6. You do not remove or obscure PeriR attribution notices.
+
+Reasonable costs associated with physical reproduction, such as materials, PCB fabrication, shipping, or media costs, may be recovered on a cost-recovery basis provided that the transaction is not primarily intended to generate commercial profit.
+
+## 6. Derivative Designs
+
+You may create Derivative Designs for Non-Commercial Use.
+
+When distributing a Derivative Design, you must:
+
+* identify that the design is derived from PeriR;
+* retain the original copyright notice;
+* identify the changes made to PeriR;
+* include a copy of this License or a reference to it; and
+* preserve the required attribution.
+
+You may not represent a Derivative Design as the original PeriR design.
+
+## 7. Commercial Use Requires Separate Permission
+
+The rights granted by this License do **not** include Commercial Use.
+
+No person or organization may, without a separate written commercial license from the Licensor:
+
+* manufacture PeriR for commercial sale;
+* sell PeriR hardware;
+* sell kits substantially based on PeriR;
+* manufacture a Derivative Design for commercial sale;
+* incorporate substantial portions of PeriR into a commercial product; or
+* commercially license or sublicense the Licensed Materials.
+
+A person or organization wishing to engage in Commercial Use must contact the Licensor and obtain a separate written commercial license before commencing such use.
+
+Commercial licenses may include, at the Licensor's discretion:
+
+* fixed licensing fees;
+* per-unit royalties;
+* attribution requirements;
+* engineering or support agreements;
+* geographic restrictions;
+* product-specific permissions;
+* manufacturing limits;
+* duration limits; or
+* other mutually agreed terms.
+
+No commercial license is granted merely because a person requests one.
+
+## 8. Attribution
+
+Any public distribution, publication, demonstration, or presentation substantially involving PeriR must provide reasonable attribution.
+
+The following attribution is sufficient:
+
+> **PeriR by Alfred Jacob Vipin
+> Original project: https://github.com/nihcoc/PeriR/
+
+Attribution must not be presented in a manner that suggests endorsement, sponsorship, certification, or partnership with the Licensor unless separately authorized in writing.
+
+## 9. Trademarks and Project Name
+
+This License does not grant permission to use trademarks, logos, project names, or other branding belonging to the Licensor except as reasonably necessary to provide attribution.
+
+"PeriR" and associated project branding may not be used to imply that a modified or independently manufactured product is an official PeriR product without written permission.
+
+The Licensor may require substantially modified products to use a different product name.
+
+## 10. Third-Party Materials
+
+The Licensed Materials may contain or depend upon software, hardware descriptions, libraries, HDL, documentation, symbols, footprints, or other materials belonging to third parties.
+
+Such materials are not automatically covered by this License.
+
+You must comply with the applicable license terms of those third-party materials.
+
+Where practical, the PeriR repository will identify significant third-party materials and their applicable licenses.
+
+## 11. Patents
+
+This License grants only the rights expressly stated in this License.
+
+Unless separately stated in writing, the Licensor does not grant any patent license.
+
+If the Licensed Materials are subject to patents owned or controlled by the Licensor, any rights to those patents must be granted separately in writing.
+
+Nothing in this License should be interpreted as a representation that the Licensed Materials do not infringe third-party patents.
+
+## 12. No Warranty
+
+THE LICENSED MATERIALS ARE PROVIDED "AS IS" AND WITHOUT WARRANTY OF ANY KIND, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
+
+THE LICENSOR DISCLAIMS WARRANTIES INCLUDING, WITHOUT LIMITATION, WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, SAFETY, AND FUNCTIONALITY.
+
+THE LICENSOR DOES NOT WARRANT THAT THE HARDWARE WILL OPERATE CORRECTLY, THAT IT IS SAFE FOR ANY PARTICULAR APPLICATION, OR THAT IT COMPLIES WITH ANY REGULATORY REQUIREMENTS.
+
+YOU ARE RESPONSIBLE FOR VERIFYING THE SAFETY, FUNCTIONALITY, ELECTRICAL CHARACTERISTICS, REGULATORY COMPLIANCE, AND SUITABILITY OF ANY HARDWARE YOU BUILD.
+
+## 13. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSOR SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR OTHER DAMAGES ARISING FROM THE USE OF OR INABILITY TO USE THE LICENSED MATERIALS.
+
+## 14. Termination
+
+This License automatically terminates if you materially violate its terms.
+
+Upon termination, you must cease the activities authorized by this License.
+
+Termination does not automatically invalidate rights that were lawfully granted to other parties before the violation, to the extent those rights cannot otherwise be terminated under applicable law.
+
+The Licensor may reinstate this License at their discretion if the violation is corrected.
+
+## 15. No Endorsement
+
+Use of PeriR does not imply that the Licensor endorses, sponsors, manufactures, warrants, or supports any person, organization, product, or Derivative Design.
+
+## 16. Reservation of Rights
+
+All rights not expressly granted by this License are reserved by the Licensor.
+
+In particular, the Licensor reserves all rights concerning Commercial Use, commercial manufacturing, commercial distribution, commercial licensing, and trademarks, except where such rights cannot legally be reserved.
+
+## 17. Future Versions
+
+The Licensor may publish later versions of this License.
+
+Unless explicitly stated otherwise, each released version of the Licensed Materials remains governed by the license version accompanying that release.
+
+You may continue using an older release under its original license unless that license has otherwise terminated.
+
+## 18. No Requirement to Release Future Versions
+
+The Licensor is not obligated to publish future versions, improvements, updates, revisions, source files, or additional documentation for PeriR.
+
+## 19. Severability
+
+If any provision of this License is determined to be unenforceable or invalid, that provision shall be modified to the minimum extent necessary to make it enforceable, and the remaining provisions shall remain in effect.
+
+## 20. Governing Law
+
+This License shall be interpreted in accordance with the laws specified by the Licensor in the applicable commercial or project documentation, subject to mandatory applicable law.
+
+For the avoidance of doubt, publication of this License does not constitute legal advice or establish jurisdiction where none otherwise exists.
+
+## 21. Entire Agreement
+
+This License constitutes the complete license grant concerning the Licensed Materials unless supplemented by a separate written agreement.
+
+A separate written commercial license signed by the Licensor may override the terms of this License for the specific commercial use covered by that agreement.
+
+## 22. Contact
+
+For commercial licensing, permissions, or other inquiries:
+
+**Licensor:** Alfred Jacob Vipin
+**Project:** PeriR
+**Repository:** https://github.com/nihcoc/PeriR
+**Contact:** alfredjacobv@gmail.com
+
+---
+
