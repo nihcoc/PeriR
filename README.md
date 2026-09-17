@@ -1,8 +1,7 @@
 # PeriR
 > Under Development!
 
-<img width="2552" height="3584" alt="Fallout Zine" src="https://github.com/user-attachments/assets/a3692e8a-0c40-4a74-8f8e-e91de8aa9a11" />
-
+---
 
 ## Abstract
 
@@ -238,7 +237,7 @@ CM4 - FPGA - AD9364 software/digital design interface is in development.
 | 66 | --- | Compute Module 4 CM4101000 WIFI Lite | RPi | --- | --- | --- | 1 | 1 | 95 | 95 | [Link](https://ar.aliexpress.com/item/1005008557413104.html?spm=a2g0o.productlist.main.2.4574vHeWvHeWo5&algo_pvid=dbca0ea5-76ce-4cef-a374-f51fa96f5d17&algo_exp_id=dbca0ea5-76ce-4cef-a374-f51fa96f5d17-1&pdp_ext_f=%7B%22order%22%3A%2256%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21AED%21291.96%21291.96%21%21%21522.94%21522.94%21%40214100f417822410718697426e529a%2112000045700124987%21sea%21AE%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ae64a854d%3Bm03_new_user%3A-29895&curPageLogUid=OTnqg2gbWbCW&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008557413104%7C_p_origin_prod%3A) |
 | 67 | --- | PCBA | JLCPCB | --- | --- | 6 - Layer | 1 | 1 | 100 | 100 | --- |
 
-
+<img width="2552" height="3584" alt="Fallout Zine" src="https://github.com/user-attachments/assets/a3692e8a-0c40-4a74-8f8e-e91de8aa9a11" />
 ---
 *Special Thanks to Hack Club and the fabulous people at Fallout 2026!*
 
