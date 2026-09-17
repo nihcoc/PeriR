@@ -73,7 +73,8 @@ Read my <a href="https://github.com/nihcoc/PeriR/blob/main/perir-journal.md">Har
 | **Transceiver Digital Interface** | Routing configured for the DUAL PORT FULL DUPLEX MODE using the LVDS signaling standard. LVDS mode is supported on the XC7A50T-CSG325 but only when VCCO_x is supplied with 2.5V|
 | **DEBUG LEDS** | Blue leds for debug/status |
 
-> Impedance for layer 3 LVDS signals 100Ω is actually wrong as I mistakenly chose the JLC06161H-3313E stackup for calculating the impedances for this layer. It's not ideal but it's also not that critical as trace length is short so the signals would actually reach the terminals before any reflections could affect it. Also, I can use diagnostics and tools to correct the mismatch duing digital design. I'd also work with a lower speed and fix this impedance mismatch for V2. **I have updated the correct spacing in current PCB file**
+> Impedance for the layer 3 LVDS signals is not 100Ω because I mistakenly used the JLC06161H-3313E stackup to calculate the impedance for this layer. It's not ideal, but the traces are only around 3 cm long, so the impact of the mismatch should be relatively small. I can validate the interface at a lower data rate and use diagnostics and timing analysis to check the signal margin. I'll fix the impedance mismatch properly in V2.
+
 
 ---
 
