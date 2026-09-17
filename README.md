@@ -1,4 +1,5 @@
 # PeriR
+> Under Development!
 
 <img width="2552" height="3584" alt="Fallout Zine" src="https://github.com/user-attachments/assets/a3692e8a-0c40-4a74-8f8e-e91de8aa9a11" />
 
